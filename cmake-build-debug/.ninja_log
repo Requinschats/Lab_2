@@ -1,0 +1,21 @@
+# ninja log v5
+2	1792	1656950039084184492	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/osmesa_context.c.o	ef0ed77be0b51afa
+5	1803	1656950039084559021	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/context.c.o	831647386797463
+1	1807	1656950039095255195	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.o	9cf5d7ab9dfff09c
+6	1810	1656950039101850219	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/init.c.o	308513d15e46cdc9
+8	1814	1656950039109045977	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/monitor.c.o	a77a124272c6963b
+7	1887	1656950039203960352	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/input.c.o	f3b7e4c22ddd159a
+4	2077	1656950039394883626	_deps/thirdparty-glew-build/CMakeFiles/glew_s.dir/__/__/src/glew.c.o	6cd532bf83042fca
+2077	2194	1656950039527560000	lib/libGLEWd.a	e34e3b37b1db0332
+4	2371	1656950039690319244	CMakeFiles/lab02.dir/src/lab02.cpp.o	624fe303a2293d
+1	2968	1656950040278074514	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/nsgl_context.m.o	43b016dfde63622f
+1800	3134	1656950040452339003	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/vulkan.c.o	19fbdcdf0ccb4d19
+1804	3225	1656950040542854881	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/window.c.o	8fe437ae9985e61a
+2194	3431	1656950040748789243	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/cocoa_time.c.o	1f5439c7cb9c4b41
+2375	3596	1656950040911802281	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/posix_thread.c.o	34bc1b6c4ace12bd
+1811	4145	1656950041456486224	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o	730eae4bb6d62d47
+1807	4153	1656950041463561034	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/cocoa_init.m.o	241e9bd2f435e5af
+1814	4162	1656950041472878118	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o	f75e5d775f87a3e9
+1887	4273	1656950041589113965	_deps/thirdparty-glfw-build/src/CMakeFiles/glfw.dir/cocoa_window.m.o	c04be875be56f3c5
+4273	4336	1656950041670859000	_deps/thirdparty-glfw-build/src/libglfw3.a	a3bb376369864965
+4336	4578	1656950041903753721	lab02	d1bb942d910685f8
